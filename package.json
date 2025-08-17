@@ -1,0 +1,7 @@
+{
+    "name": "com.mobster.content",
+    "displayName": "Mobster Game Content",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "description": "Shared prefabs & assets for Game and LevelEditor"
+  }
